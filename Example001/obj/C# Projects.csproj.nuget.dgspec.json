@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\C# Projects.csproj": {}
+    "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\Example001\\C# Projects.csproj": {}
   },
   "projects": {
-    "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\C# Projects.csproj": {
+    "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\Example001\\C# Projects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\C# Projects.csproj",
+        "projectUniqueName": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\Example001\\C# Projects.csproj",
         "projectName": "C# Projects",
-        "projectPath": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\C# Projects.csproj",
+        "projectPath": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\Example001\\C# Projects.csproj",
         "packagesPath": "C:\\Users\\Данияр_Асель\\.nuget\\packages\\",
-        "outputPath": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\obj\\",
+        "outputPath": "B:\\GeekBrains\\3. Языки программирования C#\\C# Projects\\Example001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Данияр_Асель\\AppData\\Roaming\\NuGet\\NuGet.Config"
