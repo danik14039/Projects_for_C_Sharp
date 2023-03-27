@@ -16,7 +16,7 @@
 // Console.Write(sum);
 
 Console.WriteLine("Enter number: ");
-string num = Console.ReadLine();
+string num = Console.ReadLine()!;
 char [] array = num.ToCharArray();
 int sum = 0;
 for (int i=0; i<array.Length; i++)
