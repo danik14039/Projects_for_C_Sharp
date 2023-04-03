@@ -45,5 +45,11 @@ for (int i = 0; i < matrix.GetLength(0); i++)
     }
 }
 
-if (check==true) {Console.WriteLine($"Такое значение есть в массиве, оно равно {userNumber}");}
-else {Console.WriteLine("Такого значения в массиве нет");}
+if (check==true)
+{
+    Console.WriteLine($"Такое значение есть в массиве, оно равно {userNumber}");
+}
+else 
+{
+    Console.WriteLine("Такого значения в массиве нет");
+}
